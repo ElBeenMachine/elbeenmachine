@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **private** and **open source** projects.
 
-- 📫 How to reach me: **ElBeenMachine#1829**
+- 📫 Discord: http://discord.beenhamow.mywire.org
 
 - 🍰 I'm a student in the **United Kingdom**
 
@@ -23,9 +23,6 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a> 
-	<a href="https://www.linux.org/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	</a>
 	<a href="https://www.mongodb.com/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 	</a>
@@ -35,20 +32,11 @@
 	<a href="https://github.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40">
 	</a>
-	<a href="https://ubuntu.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40">
-	</a>
-	<a href="https://www.mysql.com/fr/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-	</a>
 	<a href="https://nodejs.org/en/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
 	</a>
 	<a href="https://www.npmjs.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
-	</a>
-	<a href="https://www.photoshop.com/en/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">
 	</a>
 </p>
 

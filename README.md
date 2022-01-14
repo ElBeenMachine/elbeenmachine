@@ -86,9 +86,3 @@
 <a href="https://twitter.com/ElBeenMachine" target="blank">
 	<img src="https://img.shields.io/twitter/follow/ElBeenMachine?logo=twitter&style=for-the-badge" alt="ElBeenMachine"/>
 </a>
-
-<br>
-
-<a href="#">
-	<img src="https://discord.c99.nl/widget/theme-2/499345183763070976.png" alt="discord"/>
-</a>

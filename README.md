@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **private** and **open source** projects.
 
-- 📫 Discord: http://discord.beenhamow.mywire.org
+- 📫 Discord: https://discord.gg/uB4dcpsMSR
 
 - 🍰 I'm a student in the **United Kingdom**
 

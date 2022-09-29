@@ -1,88 +1,129 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Ollie!</h1>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **private** and **open source** projects.
-
-- 📫 Discord: https://discord.gg/uB4dcpsMSR
-
-- 🍰 I'm a student in the **United Kingdom**
-
-## 🚀 Languages and Tools:
-
-<p align = "center"> 
-	<a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	</a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	</a> 
-	<a href="https://www.mongodb.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	</a>
-	<a href="https://www.python.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-	</a>
-	<a href="https://github.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40">
-	</a>
-	<a href="https://nodejs.org/en/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
-	</a>
-	<a href="https://www.npmjs.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
-	</a>
-</p>
+<h1 align="center">
+  <img src="GIF/hi.gif" width="24px">
+  Hi there! I'm Ollie.
+  <img src="GIF/hi.gif" width="40px" />
+</h1>
 
 <br/>
+<br/>
 
-## 📊 GitHub statistics
-  
+<img align="right" height="250" width="400" alt="GIF" src="GIF/header.gif"/>
+
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web development.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **VueJS and Virtualization.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Google's name was actually a spelling mistake**
+
+<br/>
+<br/>
+
+
 <p align="center">
- <a href="#">
-   <img alt="ElBeenMachine's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElBeenMachine&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
- </a>
+  <img src="https://gpvc.arturio.dev/ElBeenMachine" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
+  <img src = "https://img.shields.io/discord/506436049816518657?color=5865F2&label=Discord&logo=Discord&logoColor=5865F2&style=flat-square"> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ElBeenMachine?logo=Github&label=Followers&style=flat-square"> •
+  <img src="https://img.shields.io/github/stars/ElBeenMachine?logo=Github&label=Stars&style=flat-square" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
-<br/>
-
-<p align = "center">
-	<a href="#">
-	  <img alt="ElBeenMachine's stats" src="https://github-readme-stats.vercel.app/api?username=ElBeenMachine&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&card_width=450"/>
-	</a>
-</p>
-
-<br/>
-
-<p align = "center">
-	<a href="#">
-    	<img alt="ElBeenMachine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElBeenMachine&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&card_width=450"/>
-	</a>
-</p>
-
-<br/>
-<br/>
-
-<a href="#">
-  <img alt="ElBeenMachine's activity" src="https://activity-graph.herokuapp.com/graph?username=ElBeenMachine&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</a>
-
-<br/>
-<br/>
-
-## ❤ Other
-<a href="#">
-	<img src="https://img.shields.io/github/followers/ElBeenMachine?label=Followers&style=social" alt="GitHub Badge">
-</a>
 
 <br>
 
-<a href="https://twitter.com/ElBeenMachine" target="blank">
-	<img src="https://img.shields.io/twitter/follow/ElBeenMachine?logo=twitter&style=for-the-badge" alt="ElBeenMachine"/>
-</a>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElBeenMachine&theme=dark&hide_border=false"/>
+</p>
+
+<br>
+
+#
+
+
+<div align="center">
+<h2>Languages</h2>
+<br>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<br>
+
+#
+
+<h2>Tools</h2>
+<br>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<br>
+</div>
+
+#
+
+<br>
+
+<details open="">
+<summary align="center">
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>GitHub Stats</strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElBeenMachine&show_icons=true&hide_border=false&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+	<br><br>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElBeenMachine&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ElBeenMachine&theme=react-dark&hide_border=false&area=true)
+
+</details>
+
+#
+
+<br>
+
+<details open="">
+
+<summary align="center">
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>WakaTime Stats</strong>
+</summary>
+
+<p align="center">
+	<img align="center" width="400px" height="400px" src="https://wakatime.com/share/@a91335c6-dcba-4383-9fe1-8bfa184501c4/764670d2-6042-47bd-b430-14292ed4bcc7.svg"></img>
+	<br><br>
+	<img align="center" width="400px" height="400px" src="https://wakatime.com/share/@a91335c6-dcba-4383-9fe1-8bfa184501c4/be06487d-eea2-4b5c-bc87-99a216f144af.svg"></img>
+  	<br><br>
+	<img align="center" width="400px" height="400px" src="https://wakatime.com/share/@a91335c6-dcba-4383-9fe1-8bfa184501c4/71b5b281-8201-4382-beb2-1f46c7bd8315.svg"></img>
+	<br><br>
+</p>
+
+</details>
+
+#
+
+<summary align="center">
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📈</g-emoji>
+  <strong>Contact Me</strong>
+</summary>
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/BeenhamO/" target="_blank">
+    <code><img height="60" width="60" src="PNG/LinkedIn.png"/></code>
+  </a>
+  <a href="https://twitter.com/ElBeenMachine" target="_blank">
+    <code><img height="60" src="PNG/Twitter.png"/></code>
+  </a>
+  <a href="https://discord.gg/uB4dcpsMSR">
+    <code><img src="PNG/Discord.png" height="60"></code>
+  </a>     
+</p>
+
+-----
+**Credits**: [ElBeenMachine](https://github.com/ElBeenMachine)
+
+**Last Edited on**: 29/09/2022

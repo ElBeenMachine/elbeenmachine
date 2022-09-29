@@ -4,20 +4,18 @@
   <img src="GIF/hi.gif" width="40px" />
 </h1>
 
-<br/>
-<br/>
+<br>
 
-<img align="right" height="250" width="400" alt="GIF" src="GIF/header.gif"/>
+- 🔭 I'm currently working on **Web development.**
+- 🌱 I'm currently learning **VueJS and Virtualization.**
+- 👯 I'm looking to collaborate on **Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 😄 Pronouns: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web development.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **VueJS and Virtualization.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Google's name was actually a spelling mistake**
+<br>
 
-<br/>
-<br/>
+#
 
+<br>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/ElBeenMachine" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •

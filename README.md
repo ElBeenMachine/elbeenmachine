@@ -8,10 +8,13 @@
   <br>
 
   <div align="center">
-    <img src="https://gpvc.arturio.dev/ElBeenMachine" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜" style="margin: 0 10px">
-    <img src = "https://img.shields.io/discord/506436049816518657?color=5865F2&label=Discord&logo=Discord&logoColor=5865F2&style=flat-square" style="margin: 0 10px">
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ElBeenMachine?logo=Github&label=Followers&style=flat-square" style="margin: 0 10px">
-    <img src="https://img.shields.io/github/stars/ElBeenMachine?logo=Github&label=Stars&style=flat-square"  style="margin: 0 10px">
+    <img src="https://gpvc.arturio.dev/ElBeenMachine" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
+    &nbsp;&nbsp;
+    <img src = "https://img.shields.io/discord/506436049816518657?color=5865F2&label=Discord&logo=Discord&logoColor=5865F2&style=flat-square">
+    &nbsp;&nbsp;
+    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ElBeenMachine?logo=Github&label=Followers&style=flat-square">
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/ElBeenMachine?logo=Github&label=Stars&style=flat-square">
   </div>
 
   <br>

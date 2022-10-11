@@ -16,11 +16,11 @@
 
   <br>
 
-  <ul style="list-style: none">
-    <li>🔭 I'm currently working on <strong>Web development.</strong></li>
-    <li>🌱 I'm currently learning <strong>VueJS and Virtualization.</strong></li>
-    <li>👯 I'm looking to collaborate on <strong>Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</strong></li>
-    <li>😄 Pronouns: <strong>He/Him/His</strong></li>
+  <div>
+    <p>🔭 I'm currently working on <strong>Web development.</strong></p>
+    <p>🌱 I'm currently learning <strong>VueJS and Virtualization.</strong></p>
+    <p>👯 I'm looking to collaborate on <strong>Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</strong></p>
+    <p>😄 Pronouns: <strong>He/Him/His</strong></p>
   </ul>
 
   <br>
@@ -37,11 +37,15 @@
 
   <br>
 
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin: 0 10px" alt="Python">
-  <img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="margin: 0 10px" alt="NodeJS>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin: 0 10px" alt="HTML">
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" style="margin: 0 10px" alt="CSS">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin: 0 10px" alt="JavaScript">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS>
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
 
   <br>
 
@@ -49,11 +53,15 @@
 
   <br>
 
-  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" style="margin: 0 10px" alt="Git">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" style="margin: 0 10px" alt="GitHub">
-  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" style="margin: 0 10px" alt="Visual Studio Code">
-  <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU" style="margin: 0 10px" alt="Express.js">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" style="margin: 0 10px" alt="Ubuntu">
+  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="GitHub">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"alt="Express.js">
+  &nbsp;&nbsp;
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/alt="Ubuntu">
 </div>
 
 <br><br>

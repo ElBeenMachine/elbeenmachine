@@ -16,11 +16,11 @@
 
   <br>
 
-  <ul align="left">
-    <li>🔭 I'm currently working on **Web development.**</li>
-    <li>🌱 I'm currently learning **VueJS and Virtualization.**</li>
-    <li>👯 I'm looking to collaborate on **Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**</li>
-    <li>😄 Pronouns: **He/Him/His**</li>
+  <ul style="list-style: none">
+    <li>🔭 I'm currently working on <strong>Web development.</strong></li>
+    <li>🌱 I'm currently learning <strong>VueJS and Virtualization.</strong></li>
+    <li>👯 I'm looking to collaborate on <strong>Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</strong></li>
+    <li>😄 Pronouns: <strong>He/Him/His</strong></li>
   </ul>
 
   <br>

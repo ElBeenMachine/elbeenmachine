@@ -5,9 +5,9 @@
     <img src="GIF/hi.gif" width="24px" />
   </h1>
 
-  <br>
-
   <div align="center">
+    <img src="https://lanyard.cnrad.dev/api/499345183763070976">
+    <br><br>
     <img src="https://gpvc.arturio.dev/ElBeenMachine" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
     &nbsp;&nbsp;
     <img src = "https://img.shields.io/discord/506436049816518657?color=5865F2&label=Discord&logo=Discord&logoColor=5865F2&style=flat-square">

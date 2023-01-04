@@ -87,20 +87,6 @@
 
 <br><br>
 
-<div align="center">
-  <h1>📈 WakaTime Stats</h1>
-
-  <br>
-
-  <div align="center">
-  	<img alt="Light" src="https://wakatime.com/share/@a91335c6-dcba-4383-9fe1-8bfa184501c4/764670d2-6042-47bd-b430-14292ed4bcc7.svg" width="45%">
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img alt="Dark" src="https://wakatime.com/share/@a91335c6-dcba-4383-9fe1-8bfa184501c4/be06487d-eea2-4b5c-bc87-99a216f144af.svg" width="45%">
-  </div>
-</div>
-
-<br><br>
-
 -----
 
 **Credits**: [ElBeenMachine](https://github.com/ElBeenMachine)

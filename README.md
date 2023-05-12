@@ -1,90 +1,52 @@
-<div align="center">
-  <h1 align="center">
-    <img src="GIF/hi.gif" width="24px">
+<div id="header" align="center">
+  <img src="https://www.beenhamow.co.uk/img/Bean-Circle.png" width="100" style="margin-bottom: 20px"/>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=ElBeenMachine&style=flat-square&color=blue" alt=""/>
+  <h1 style="margin-top: 20px">
     Hi there! I'm Ollie.
-    <img src="GIF/hi.gif" width="24px" />
   </h1>
-
-  <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/499345183763070976">
-    <br><br>
-    <img src="https://gpvc.arturio.dev/ElBeenMachine" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
-    &nbsp;&nbsp;
-    <img src = "https://img.shields.io/discord/506436049816518657?color=5865F2&label=Discord&logo=Discord&logoColor=5865F2&style=flat-square">
-    &nbsp;&nbsp;
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ElBeenMachine?logo=Github&label=Followers&style=flat-square">
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/ElBeenMachine?logo=Github&label=Stars&style=flat-square">
-  </div>
-
-  <br>
-
-  <div>
-    <p>🔭 I'm currently working on <strong>Web development.</strong></p>
-    <p>🌱 I'm currently learning <strong>VueJS and Virtualization.</strong></p>
-    <p>👯 I'm looking to collaborate on <strong>Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</strong></p>
-    <p>😄 Pronouns: <strong>He/Him/His</strong></p>
-  </ul>
-
-  <br>
-
-  <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElBeenMachine&theme=dark&hide_border=false"/>
-  </div>
 </div>
-
-<br><br>
-
 <div align="center">
-  <h1>Languages</h1>
-
-  <br>
-
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS>
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
-
-  <br>
-
-  <h1>Tools</h1>
-
-  <br>
-
-  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="GitHub">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"alt="Express.js">
-  &nbsp;&nbsp;
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<br><br>
+---
 
-<div align="center">
-  <h1 align="center">📈 GitHub Stats</h1>
+### :man_technologist: About Me :
+I am a college student from England.
+- :telescope: I’m working to start a degree in software engineering to advance my career in the field.
 
-  <br>
+- :seedling: Exploring React.js and Next.js.
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ElBeenMachine&show_icons=true&hide_border=false&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" width="45%"/>
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElBeenMachine&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" width="45%"/>
-  </div>
+- :zap: In my free time, I play videogames and go indoor climbing.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<br><br>
+---
 
------
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElBeenMachine&theme=dark&background=000000)]()
 
-**Credits**: [ElBeenMachine](https://github.com/ElBeenMachine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBeenMachine&layout=compact&theme=vision-friendly-dark)]()
 
-**Last Edited on**: 11/10/2022
+---

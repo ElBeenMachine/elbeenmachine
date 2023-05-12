@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://www.beenhamow.co.uk/img/Bean-Circle.png" width="100" style="margin-bottom: 20px"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://discord.gg/uB4dcpsMSR">
       <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/ElBeenMachine">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -26,6 +26,12 @@ I am a college student from England.
 - :seedling: Exploring React.js and Next.js.
 
 - :zap: In my free time, I play videogames and go indoor climbing.
+
+---
+
+### :man_technologist: What I'm Currently Doing :
+
+<img src="https://lanyard.cnrad.dev/api/499345183763070976" style="margin-top: 20px">
 
 ---
 

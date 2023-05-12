@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://www.beenhamow.co.uk/img/Bean-Circle.png" width="100" style="margin-bottom: 20px"/>
   <div id="badges">
-    <a href="https://discord.gg/uB4dcpsMSR">
+    <a href="https://discord.gg/uB4dcpsMSR" target="_blank">
       <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/ElBeenMachine">
+    <a href="https://twitter.com/ElBeenMachine" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -19,7 +19,13 @@
 
 ---
 
-### :man_technologist: About Me :
+### 🏃 What I'm Currently Doing :
+
+<img src="https://lanyard.cnrad.dev/api/499345183763070976" style="margin-top: 20px">
+
+---
+
+### 👨‍💻 About Me :
 I am a college student from England.
 - :telescope: I’m working to start a degree in software engineering to advance my career in the field.
 
@@ -29,13 +35,7 @@ I am a college student from England.
 
 ---
 
-### :man_technologist: What I'm Currently Doing :
-
-<img src="https://lanyard.cnrad.dev/api/499345183763070976" style="margin-top: 20px">
-
----
-
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ I am a college student from England.
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElBeenMachine&theme=dark&background=000000)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBeenMachine&layout=compact&theme=vision-friendly-dark)]()

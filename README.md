@@ -4,7 +4,7 @@
     <a href="https://www.beenhamow.co.uk/discord" target="_blank">
       <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://twitter.com/ElBeenMachine" target="_blank">
+    <a href="https://www.beenhzmow.co.uk/twitter" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>

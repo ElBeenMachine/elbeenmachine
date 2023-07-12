@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://www.beenhamow.co.uk/img/Bean-Circle.png" width="100" style="margin-bottom: 20px"/>
   <div id="badges">
-    <a href="https://discord.gg/uB4dcpsMSR" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.beenhamow.co.uk/discord" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://twitter.com/ElBeenMachine" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

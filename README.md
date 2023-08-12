@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.beenhamow.co.uk/img/logos/bean-circle.png" width="100" style="margin-bottom: 20px"/>
+  <img src="https://www.beenhamow.co.uk/img/logos/bean-circle.png" width="100" style="margin-bottom: 50px"/>
   <div id="badges">
     <a href="https://www.beenhamow.co.uk/discord" target="_blank">
       <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>

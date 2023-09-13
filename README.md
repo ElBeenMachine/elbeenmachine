@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://www.beenhamow.co.uk/img/logos/bean-circle.png" width="100" />
   <div id="badges">
-    <a href="https://www.beenhamow.co.uk/discord" target="_blank">
+    <a href="https://discord.beenhamow.co.uk" target="_blank">
       <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://www.beenhzmow.co.uk/twitter" target="_blank">
+    <a href="https://twitter.beenhamow.co.uk" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>

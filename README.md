@@ -27,11 +27,9 @@
 
 ### 👨‍💻 About Me :
 I am a college student from England.
-- :telescope: I’m working to start a degree in software engineering to advance my career in the field.
+- :telescope: I’m currently studying software engineering at university to advance my career in the field.
 
 - :seedling: Exploring React.js and Next.js.
-
-- :zap: In my free time, I play videogames and go indoor climbing.
 
 ---
 

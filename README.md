@@ -26,7 +26,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a college student from England.
+I am a university student from England.
 - :telescope: I’m currently studying software engineering at university to advance my career in the field.
 
 - :seedling: Exploring React.js and Next.js.

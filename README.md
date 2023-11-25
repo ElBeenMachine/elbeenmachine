@@ -1,14 +1,5 @@
 <div id="header" align="center">
   <img src="https://beta.beenhamow.co.uk/img/logo.svg" width="100" />
-  <div id="badges">
-    <a href="https://discord.beenhamow.co.uk" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    </a>
-    <a href="https://twitter.beenhamow.co.uk" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=ElBeenMachine&style=flat-square&color=blue"/>
   <h1 style="margin-top: 20px">
     Hi there! I'm Ollie.
   </h1>

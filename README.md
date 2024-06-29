@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://beta.beenhamow.co.uk/img/logo.svg" width="100" />
+  <img src="https://www.beenhamow.co.uk/img/logo.svg" width="100" />
   <h1 style="margin-top: 20px">
     Hi there! I'm Ollie.
   </h1>

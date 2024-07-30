@@ -26,6 +26,8 @@ I am a university student from England.
 
 ---
 
+### ⌚ Recent Activity :
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#53](https://github.com/LJMU-SE/www.ljmu.dev/pull/53) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
 2. 💪 Opened PR [#53](https://github.com/LJMU-SE/www.ljmu.dev/pull/53) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)

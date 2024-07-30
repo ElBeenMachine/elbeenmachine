@@ -18,8 +18,6 @@ I am a university student from England.
 
 ### ⌚ Recent Activity :
 
-![My Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElBeenMachine&theme=default)
-
 <!--START_SECTION:activity-->
 
 ---

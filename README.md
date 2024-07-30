@@ -48,3 +48,7 @@ I am a university student from England.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
+
+![My Commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElBeenMachine)
+
+</div>

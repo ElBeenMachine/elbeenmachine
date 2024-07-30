@@ -18,7 +18,6 @@ I am a university student from England.
 
 ### ⌚ Recent Activity :
 
-<div align="left">
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#53](https://github.com/LJMU-SE/www.ljmu.dev/pull/53) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
 2. 💪 Opened PR [#53](https://github.com/LJMU-SE/www.ljmu.dev/pull/53) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
@@ -26,7 +25,6 @@ I am a university student from England.
 4. 💪 Opened PR [#52](https://github.com/LJMU-SE/www.ljmu.dev/pull/52) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
 5. 🎉 Merged PR [#100](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/100) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
 <!--END_SECTION:activity-->
-</div>
 
 ---
 

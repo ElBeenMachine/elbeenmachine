@@ -1,44 +1,30 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://www.beenhamow.co.uk/img/logo.svg" width="100" />
   <h1 style="margin-top: 20px">
     Hi there! I'm Ollie.
   </h1>
-</div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
-
----
 
 ### 👨‍💻 About Me :
 
 I am a university student from England.
 
--   :telescope: I’m currently studying software engineering at university to advance my career in the field.
+🎓 I’m currently studying software engineering at Liverpool John Moores University to improve my technical ability and jumpstart my career.
 
--   :seedling: Exploring React.js and Next.js.
+🧭 I'm currently exploring web development technologies such as React and NextJS, and I am also venturing into the world of DevOps, with an interest in cloud computing.
 
-<!--  ---
-
-### 🏃 What I'm Currently Doing :
-
-<img src="https://lanyard.cnrad.dev/api/499345183763070976" style="margin-top: 20px"> -->
+📚 I am currently learning Ansible and attempting to deploy it inside my Homelab.
 
 ---
 
 ### ⌚ Recent Activity :
 
+![My Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElBeenMachine&theme=default)
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/LJMU-SE/www.ljmu.dev/pull/53) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-2. 💪 Opened PR [#53](https://github.com/LJMU-SE/www.ljmu.dev/pull/53) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-3. 🎉 Merged PR [#52](https://github.com/LJMU-SE/www.ljmu.dev/pull/52) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-4. 💪 Opened PR [#52](https://github.com/LJMU-SE/www.ljmu.dev/pull/52) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-5. 🎉 Merged PR [#100](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/100) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
-<!--END_SECTION:activity-->
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD900?style=for-the-badge&logo=javascript&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -49,13 +35,16 @@ I am a university student from England.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-BB00FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🔥 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElBeenMachine&theme=dark&background=000000)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBeenMachine&layout=compact&theme=vision-friendly-dark)]()
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---

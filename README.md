@@ -4,9 +4,9 @@
     Hi there! I'm Ollie.
   </h1>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
@@ -18,11 +18,11 @@ I am a university student from England.
 
 -   :seedling: Exploring React.js and Next.js.
 
----
+<!--  ---
 
 ### 🏃 What I'm Currently Doing :
 
-<img src="https://lanyard.cnrad.dev/api/499345183763070976" style="margin-top: 20px">
+<img src="https://lanyard.cnrad.dev/api/499345183763070976" style="margin-top: 20px"> -->
 
 ---
 

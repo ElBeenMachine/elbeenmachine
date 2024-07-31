@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://www.beenhamow.co.uk/img/logo.svg" width="100" />
+  <a href="https://www.beenhamow.co.uk" target="_blank">
+    <img src="https://www.beenhamow.co.uk/img/logo.svg" width="100" />
+  </a>
   <h1 style="margin-top: 20px">
     Hi there! I'm Ollie.
   </h1>

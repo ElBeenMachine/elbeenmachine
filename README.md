@@ -21,11 +21,11 @@ I am a university student from England.
 ### ⌚ Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/LJMU-SE/www.ljmu.dev/pull/57) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-2. ❌ Closed PR [#110](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/110) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
-3. 🚀 Published release [1.0.0](https://github.com/ElBeenMachine/samba-server/releases/tag/1.0.0) in [ElBeenMachine/samba-server](https://github.com/ElBeenMachine/samba-server)
-4. ❌ Closed PR [#1](https://github.com/ElBeenMachine/homelab/pull/1) in [ElBeenMachine/homelab](https://github.com/ElBeenMachine/homelab)
-5. 💪 Opened PR [#110](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/110) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
+1. 🎉 Merged PR [#58](https://github.com/LJMU-SE/www.ljmu.dev/pull/58) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
+2. 💪 Opened PR [#58](https://github.com/LJMU-SE/www.ljmu.dev/pull/58) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
+3. 🎉 Merged PR [#57](https://github.com/LJMU-SE/www.ljmu.dev/pull/57) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
+4. 💪 Opened PR [#57](https://github.com/LJMU-SE/www.ljmu.dev/pull/57) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
+5. ❌ Closed PR [#110](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/110) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
 <!--END_SECTION:activity-->
 
 ---

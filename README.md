@@ -21,11 +21,11 @@ I am a university student from England.
 ### ⌚ Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/LJMU-SE/www.ljmu.dev/pull/58) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-2. 💪 Opened PR [#58](https://github.com/LJMU-SE/www.ljmu.dev/pull/58) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-3. 🎉 Merged PR [#57](https://github.com/LJMU-SE/www.ljmu.dev/pull/57) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-4. 💪 Opened PR [#57](https://github.com/LJMU-SE/www.ljmu.dev/pull/57) in [LJMU-SE/www.ljmu.dev](https://github.com/LJMU-SE/www.ljmu.dev)
-5. ❌ Closed PR [#110](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/110) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
+1. 🎉 Merged PR [#114](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/114) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
+2. 💪 Opened PR [#114](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/114) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
+3. 🎉 Merged PR [#113](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/113) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
+4. 💪 Opened PR [#113](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/113) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
+5. ❌ Closed PR [#112](https://github.com/ElBeenMachine/www.beenhamow.co.uk/pull/112) in [ElBeenMachine/www.beenhamow.co.uk](https://github.com/ElBeenMachine/www.beenhamow.co.uk)
 <!--END_SECTION:activity-->
 
 ---

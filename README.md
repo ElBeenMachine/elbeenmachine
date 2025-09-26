@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.beenhamow.co.uk" target="_blank">
-    <img src="https://www.beenhamow.co.uk/img/logo.svg" width="100" />
+    <img src="[https://www.beenhamow.co.uk/img/logo.svg](https://avatars.githubusercontent.com/u/73618201?v=4)" width="100" />
   </a>
   <h1 style="margin-top: 20px">
     Hi there! I'm Ollie.
